@@ -1,4 +1,4 @@
-
+#finding the first repeated character in the string
 def find_first_repeated(my_str):
     a=[]
     for i in my_str:
@@ -6,7 +6,6 @@ def find_first_repeated(my_str):
             return i
         else:
             a.append(i)
-
 
 if __name__ == "__main__":
     my_str = input("Enter your string: ")

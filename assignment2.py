@@ -1,3 +1,4 @@
+#remove the nth character in the string
 
 my_str = input("Enter your string: ")
 n = int(input("Enter the index at which you want to remove the character: "))

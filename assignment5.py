@@ -1,3 +1,5 @@
+#nth element is changed to (n+1)th element
+
 def jump(a,n):
     last = a[0]
     for i in range(n):

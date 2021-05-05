@@ -1,6 +1,4 @@
-#second smallest number in a list
-
-
+#finding the second smallest elemt in the list
 def find_second_smallest(a):
     a.sort()
     return a[1]
